@@ -1,0 +1,3 @@
+#+TITLE:Windows Config
+
+Miscellaneous windows things because windows is required and life is pain
