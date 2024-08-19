@@ -1,0 +1,117 @@
+! 2023-11-29 https://www.youtube.com
+www.youtube.com###comments
+www.youtube.com###secondary
+www.youtube.com##.ytd-topbar-menu-button-renderer.style-scope > .yt-icon.style-scope > .yt-spec-icon-shape > div
+www.youtube.com##.yt-spec-touch-feedback-shape--overlay-touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__fill
+www.youtube.com##.grid-disabled.grid.ytd-browse.style-scope
+www.youtube.com###guide-content > .ytd-app.style-scope
+
+! 2023-11-29 https://www.reddit.com
+www.reddit.com###right-sidebar-container
+www.reddit.com##.isolate.border-r-neutral-border-weak.s\:border-r-sm.border-solid.border-0.relative.m\:visible.m\:block.s\:col-end-4.s\:col-start-1.w-100.col-end-1.col-start-1.hidden.invisible.row-end-auto.row-start-1.theme-rpl.left-sidebar-min
+www.reddit.com###left-sidebar-container
+
+! 2023-11-30 https://www.reddit.com
+www.reddit.com##.theme-beta.z-\[4\].fixed.right-0.left-0.top-0.nd\:visible
+
+! 2023-11-30 https://www.amazon.com
+www.amazon.com###pageContent
+www.amazon.com##.nav-sprite-v1.navLeftFooter
+
+! 2023-12-05 https://en.wikipedia.org
+en.wikipedia.org##.cn-fundraising
+
+! 2023-12-08 https://www.dpreview.com
+www.dpreview.com##.sticky-popout.sidebar
+
+! 2024-01-23 https://www.facebook.com
+www.facebook.com##li.x1gz44f.x1i64zmx.x1awlv9s.x1l38jg0.x1hxoosp.xmlsiyf.x1iyjqo2:nth-of-type(2)
+
+! 2024-01-26 https://www.linkedin.com
+www.linkedin.com###feed-news-module
+www.linkedin.com##.scaffold-finite-scroll--infinite.scaffold-finite-scroll
+
+! 2024-02-28 https://mikeeckman.com
+||mikeeckman.com/wp-content/uploads/2024/02/MikeEckmanDotComLeica*.png?ezimgfmt=*ng:webp/ngcb1$image
+mikeeckman.com###secondary
+||mikeeckman.com/wp-content/uploads/2024/01/Rollei35RF-1.jpg?ezimgfmt=rs%3Adevice%2Frscb1-1%2Fng%3Awebp%2Fngcb1$image
+mikeeckman.com###branding
+
+! 2024-02-29 https://pxlmag.com
+pxlmag.com##[src="https://pxlmag.com/db/assets/camera-size-comparison-animation.gif"]
+pxlmag.com##div:nth-of-type(11)
+pxlmag.com###scrolling-latest
+
+! 2024-03-01 https://lichess.org
+lichess.org##.puzzle__session
+
+! 2024-03-04 https://www.spirit.com
+www.spirit.com##.mastercard-upsell
+www.spirit.com##div.col-12:nth-of-type(1)
+www.spirit.com##.right-section.mt-lg-4.col-lg-5.col-md-12 > .row
+www.spirit.com##.logoLegal.row
+www.spirit.com##spirit-mastercard-upsell-container
+
+! 2024-03-04 https://block.opendns.com
+block.opendns.com##p:nth-of-type(4)
+block.opendns.com##p:nth-of-type(5)
+block.opendns.com##p:nth-of-type(6)
+block.opendns.com##p:nth-of-type(3)
+block.opendns.com##li:nth-of-type(3)
+block.opendns.com##li:nth-of-type(2)
+block.opendns.com##li:nth-of-type(1)
+block.opendns.com##p:nth-of-type(14)
+block.opendns.com##p:nth-of-type(13)
+block.opendns.com##.explanation-area > p > strong
+block.opendns.com##p:nth-of-type(11)
+block.opendns.com##p:nth-of-type(10)
+block.opendns.com##p:nth-of-type(9)
+block.opendns.com##p:nth-of-type(8)
+block.opendns.com##p:nth-of-type(7)
+
+! 2024-03-09 https://eu2.concursolutions.com
+eu2.concursolutions.com###app-footer-container
+eu2.concursolutions.com##.exception-groups-container > .exception-container.sapcnqr-messagelist
+
+! 2024-03-28 https://block.opendns.com
+block.opendns.com##.proxy-area
+
+! 2024-03-29 https://feedly.com
+feedly.com##.EntryStackablePrompts
+
+! 2024-04-01 https://www.facebook.com
+www.facebook.com##.x1ceravr.xq1tmr.xvue9z.x193iq5w
+
+! 2024-04-17 https://stackoverflow.com
+stackoverflow.com###sidebar
+stackoverflow.com###left-sidebar
+stackoverflow.com##.js-top-bar.l0.t0.ps-fixed.s-topbar
+stackoverflow.com##.site-footer--container
+
+! 2024-04-22 https://doc.rust-lang.org
+doc.rust-lang.org##.right-buttons
+
+! 2024-05-08 https://medium.com
+medium.com##.fi.cn.q.ab.ue.ud.uc.ub.ua.tz.v.ty.t.tx
+
+! May 29, 2024 https://emojipedia.org
+emojipedia.org##.mt-6.gap-6.flex-col.flex
+emojipedia.org##.Footer_footer-navigation-container__r0cRb
+emojipedia.org##.Footer_footer-bottom-content-wrapper__heehV
+emojipedia.org##.overflow-hidden
+
+! Jun 12, 2024 https://www.google.com
+www.google.com##.vcVZ7d
+www.google.com##.c93Gbe.o3j99
+
+! Jun 21, 2024 https://fleetvision.web-ns-lu1-p-01.spo.internal.ses.com
+fleetvision.web-ns-lu1-p-01.spo.internal.ses.com##.text-white.justify-content-around.align-content-end.flex-row.d-flex
+
+! Aug 1, 2024 https://old.reddit.com
+old.reddit.com##.listingsignupbar.infobar
+old.reddit.com###sr-header-area
+old.reddit.com##.footer-parent
+old.reddit.com##.side
+
+! Aug 16, 2024 https://old.reddit.com
+old.reddit.com##.seo-comments-recommendations.spacer

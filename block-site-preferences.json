@@ -1,0 +1,101 @@
+{
+  "blocked": [
+    "facebook.com",
+    "instagram.com",
+    "tiktoc.com",
+    "youtube.com",
+    "ebay.com",
+    "www.keh.com",
+    "www.mpb.com",
+    "www.goodwillfinds.com",
+    "shopgoodwill.com",
+    "lichess.org",
+    "chess.com"
+  ],
+  "close": 0,
+  "contextmenu-frame": true,
+  "contextmenu-pause": true,
+  "contextmenu-resume": true,
+  "contextmenu-top": true,
+  "crate": 5,
+  "css": "",
+  "disable-actions-options": true,
+  "disable-actions-page": true,
+  "guid": "97eaf685-73e5-408f-81de-79ea71c8ee54",
+  "initialBlock": true,
+  "initialBlockCurrent": true,
+  "last-update": 1716915933444,
+  "managed.storage.overwrite.on.start": false,
+  "map": {},
+  "message": "",
+  "no-password-on-add": true,
+  "notes": {
+    "chess.com": {
+      "date": 1722521376149,
+      "origin": "options"
+    },
+    "ebay.com": {
+      "date": 1722521376149,
+      "origin": "options"
+    },
+    "facebook.com": {
+      "date": 1722521376149,
+      "origin": "options"
+    },
+    "instagram.com": {
+      "date": 1722521376149,
+      "origin": "options"
+    },
+    "lichess.org": {
+      "date": 1722521376149,
+      "origin": "options"
+    },
+    "shopgoodwill.com": {
+      "date": 1722521376149,
+      "origin": "options"
+    },
+    "tiktoc.com": {
+      "date": 1722521376149,
+      "origin": "options"
+    },
+    "www.goodwillfinds.com": {
+      "date": 1722521376149,
+      "origin": "options"
+    },
+    "www.keh.com": {
+      "date": 1722521376149,
+      "origin": "options"
+    },
+    "www.mpb.com": {
+      "date": 1722521376149,
+      "origin": "options"
+    },
+    "youtube.com": {
+      "date": 1722521376149,
+      "origin": "options"
+    }
+  },
+  "notification": true,
+  "pause-periods": [
+    2,
+    5,
+    10,
+    15,
+    30
+  ],
+  "redirect": "https://github.com/andanao",
+  "retries": {
+    "count": 0,
+    "first": 0
+  },
+  "reverse": false,
+  "schedule": {
+    "times": {}
+  },
+  "schedule-offset": 0,
+  "schedules": {},
+  "sha256": "374b825e5cf5b6833b84b75cfc39c78a63dc873d539279e4c324404a6db1ba5b",
+  "timeout": 60,
+  "title": true,
+  "wrong": 1
+}
